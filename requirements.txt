@@ -1,5 +1,5 @@
-paddlepaddle
-paddleocr
+paddlepaddle==2.6.1
+paddleocr==2.7.3
 streamlit
 pandas
 Pillow
